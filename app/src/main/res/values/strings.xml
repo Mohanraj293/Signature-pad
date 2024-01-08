@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Signature pad</string>
+  <string name="title_activity_signture">SigntureActivity</string>
+</resources>
